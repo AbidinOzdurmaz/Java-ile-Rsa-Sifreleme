@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1558c9cd-037a-4432-97ac-82722930d823" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BilgiGuvenligiOdev.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BilgiGuvenligiOdev/com/company/BuyukAsalSayiUret.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BilgiGuvenligiOdev/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BilgiGuvenligiOdev/com/company/OklitAlgoritmasi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BilgiGuvenligiOdev/com/company/RsaSifreleme.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/BuyukAsalSayiUret.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/OklitAlgoritmasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/RsaSifreleme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bootcamp Java/Ders2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
